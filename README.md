@@ -24,8 +24,8 @@ The core functionality is in the JavaScript function within the HTML file, which
 
 ## License
 
-This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
+This project is open-source and available under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Contribution
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](link-to-your-repo-issues-page) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check issues page if you want to contribute.
